@@ -28,7 +28,7 @@
 
 🚀 Sobre mim
 
-Sou estudante de Ciência de Dados, apaixonado por transformar dados em insights que geram valor real. 
+Sou estudante de Ciência de Dados, apaixonada por transformar dados em insights que geram valor real. 
 
 Tenho grande interesse em análise de dados, visualização e modelagem, sempre buscando compreender problemas de forma estratégica e orientada a resultados.
 
